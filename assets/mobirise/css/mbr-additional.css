@@ -872,7 +872,6 @@ a {
 .cid-s48OLK6784 .navbar .navbar-collapse {
   justify-content: flex-end;
   z-index: 1;
-  display: none !important;
 }
 .cid-s48OLK6784 .navbar.collapsed .nav-item .nav-link::before {
   display: none;
@@ -882,7 +881,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-s48OLK6784 .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 4.5rem);
   }
 }
 .cid-s48OLK6784 .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1184,6 +1183,32 @@ a {
 }
 .cid-sHRmCpteNI .card-title {
   color: #000000;
+}
+.cid-sHXkqyzC38 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/adrien-olichon-gh9lwhlso4-unsplash-2000x3000.jpg");
+}
+.cid-sHXkqyzC38 .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 1rem;
+  margin-right: .7rem;
+}
+.cid-sHXkqyzC38 .social-row .soc-item .mbr-iconfont {
+  font-size: 32px;
+  border-radius: 50%;
+  padding: 0.6rem;
+  border: 2px solid #232323;
+  transition: all 0.3s;
+  color: #232323;
+}
+.cid-sHXkqyzC38 .social-row .soc-item .mbr-iconfont:hover {
+  background-color: #232323;
+  color: #ffffff;
+}
+.cid-sHXkqyzC38 .mbr-section-title {
+  color: #ffffff;
 }
 .cid-s48P1Icc8J {
   padding-top: 2rem;
